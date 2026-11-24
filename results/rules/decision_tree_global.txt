@@ -1,4 +1,4 @@
-﻿Nodos: 3727   Hojas: 1864   Profundidad mßxima: 20
+﻿Nodos: 3727   Hojas: 1864   Profundidad máxima: 20
 
 Importancia de cada descriptor:
   G_entropy                 27.4 %
