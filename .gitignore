@@ -1,0 +1,60 @@
+# ---------------------------------------------------------------
+# Imágenes del dataset (Brodatz original y recortes generados)
+# ---------------------------------------------------------------
+data/brodatz_png/
+data/train/
+data/test/
+data/**/*.png
+data/**/*.jpg
+data/**/*.tif
+data/**/*.tiff
+data/**/*.bmp
+data/**/*.gif
+
+# Si también quieres excluir TODAS las imágenes del repo
+# (incluidas las figuras de results/), descomenta la línea siguiente:
+# *.png
+
+# ---------------------------------------------------------------
+# Resultados pesados que se regeneran con el código
+# ---------------------------------------------------------------
+results/metrics/kan_curves_*.csv
+
+# ---------------------------------------------------------------
+# Compilación con cl (MSVC)
+# ---------------------------------------------------------------
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.lib
+build/
+x64/
+Debug/
+Release/
+
+# DLLs copiadas de OpenCV / LibTorch junto a los ejecutables
+*.dll
+
+# LibTorch, si quedó dentro del proyecto
+libtorch/
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---------------------------------------------------------------
+# Editores y sistema
+# ---------------------------------------------------------------
+.vscode/
+.vs/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store

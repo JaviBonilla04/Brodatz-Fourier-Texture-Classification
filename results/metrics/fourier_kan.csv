@@ -1,0 +1,4 @@
+model,n_features,f1_macro_test,f1_macro_rotated,percent_changed,n_freqs,epochs,lr,lambda
+global,4,0.3295353751,0.3295353751,0,4,300,0.01,0.0001
+regional,12,0.3656980792,0.3656980792,0,4,300,0.01,0.0001
+combined,16,0.4242832987,0.4242832987,0,4,300,0.01,0.0001

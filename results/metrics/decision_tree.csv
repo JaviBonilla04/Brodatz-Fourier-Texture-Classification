@@ -1,0 +1,4 @@
+tree,n_features,f1_macro_test,f1_macro_rotated,percent_changed,max_depth,min_sample_count
+global,4,0.3331435121,0.3331435121,0,20,5
+regional,12,0.2719254405,0.2719254405,0,20,5
+combined,16,0.3262395139,0.3262395139,0,20,5

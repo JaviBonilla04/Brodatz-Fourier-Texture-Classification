@@ -1,0 +1,13 @@
+feature,importance_percent
+r1_entropy,10.0435
+r1_concentration,7.13942
+r1_mean_radial_freq,10.217
+r1_std_radial_freq,9.61441
+r2_entropy,7.86464
+r2_concentration,5.70514
+r2_mean_radial_freq,8.66968
+r2_std_radial_freq,9.06012
+r3_entropy,8.29642
+r3_concentration,5.60774
+r3_mean_radial_freq,8.88991
+r3_std_radial_freq,8.89199
